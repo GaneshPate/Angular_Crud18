@@ -1,0 +1,64 @@
+{
+    "creditcards":[
+        {
+            "Id":1,
+            "cardName":"Bank of America - Platinum Card",
+            "bankName":"Bank of America",
+            "description":"Bank of America provides various option",
+            "maxCredit":8000,
+            "active": true,
+            "annualFee":0,
+            "interestRate":10.5,
+            "introOffer":200,
+            "recomondedCreditScore": "600-800",
+            "numberOfApplication": 40,
+            "createdDate":"19-07-2024",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "Id":2,
+            "cardName":"Bank of NewYark - Gold Card",
+            "bankName":"Bank of NewYark",
+            "description":"Bank of NewYark provides various option",
+            "maxCredit":2000,
+            "active": true,
+            "annualFee":0,
+            "interestRate":11.5,
+            "introOffer":200,
+            "recomondedCreditScore": "600-800",
+            "numberOfApplication": 40,
+            "createdDate":"19-07-2024",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "Id":3,
+            "cardName":"Bank of India - Silver Card",
+            "bankName":"Bank of India",
+            "description":"Bank of India provides various option",
+            "maxCredit":10000,
+            "active": true,
+            "annualFee":0,
+            "interestRate":11.5,
+            "introOffer":200,
+            "recomondedCreditScore": "600-800",
+            "numberOfApplication": 40,
+            "createdDate":"18-07-2024",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "Id":4,
+            "cardName":"State Bank of India - Silver Card",
+            "bankName":"State Bank of India",
+            "description":"State Bank of India provides various option",
+            "maxCredit":5000,
+            "active": true,
+            "annualFee":0,
+            "interestRate":8.5,
+            "introOffer":100,
+            "recomondedCreditScore": "600-800",
+            "numberOfApplication": 10,
+            "createdDate":"15-07-2024",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        }
+    ]
+}
